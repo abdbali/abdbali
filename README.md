@@ -1,5 +1,5 @@
 ![360_F_546468872_b9emNBQeVDLbBqicXaFyoBUwutWcHmbl](https://github.com/user-attachments/assets/2fedbf84-88d0-478d-a3c9-338a1ef8b097)
-<h3 align="center">Education specialist, developer supporting interfaces he loves.</h3>
+<h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
 
 
 
