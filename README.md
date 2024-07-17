@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Abdurrahman Balı</h1>
+<h1 align="center">Hi 👋</h1>
+<h2 alling="center">I'm Balı </h2>
 <h3 align="center">Education specialist, developer supporting interfaces he loves.</h3>
 
-- 🤝 I’m looking for help with [3D slicer](https://github.com/bambulab/BambuStudio/pull/4479)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
