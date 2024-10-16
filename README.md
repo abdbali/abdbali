@@ -1,4 +1,5 @@
-![360_F_546468872_b9emNBQeVDLbBqicXaFyoBUwutWcHmbl](https://github.com/user-attachments/assets/2fedbf84-88d0-478d-a3c9-338a1ef8b097)
+![image](https://github.com/user-attachments/assets/8ed42774-6d5b-488b-a06b-22b8087ef1e6)
+
 <h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
 
 
