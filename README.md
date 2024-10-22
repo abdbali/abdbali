@@ -1,5 +1,4 @@
 ![image](https://github.com/user-attachments/assets/8ed42774-6d5b-488b-a06b-22b8087ef1e6)
-![image](https://github.com/user-attachments/assets/93bf7d28-42ac-472b-a4bc-4e7583f5f6bd)
 
 <h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
 
