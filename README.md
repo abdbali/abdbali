@@ -1,6 +1,7 @@
-![image](https://github.com/user-attachments/assets/8ed42774-6d5b-488b-a06b-22b8087ef1e6)
 
+<h1 aling="center"> ![Aprs-CREAM](https://github.com/user-attachments/assets/9e9f3e31-b7c4-4a32-9559-4d094e1bbb0d)</h1>
 <h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
+
 
 
 
