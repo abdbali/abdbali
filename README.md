@@ -1,10 +1,5 @@
 
-![Aprs-CREAM](https://github.com/user-attachments/assets/9e9f3e31-b7c4-4a32-9559-4d094e1bbb0d)
 <h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
-
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/abdbali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdbali" height="30" width="40" /></a>
