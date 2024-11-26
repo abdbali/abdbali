@@ -2,7 +2,7 @@
 <h3 align="left">Education specialist, developer supporting interfaces he loves.</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.qrz.com/db/tb3fly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://static.qrz.com/static/qrz/qrz_com.svgz" alt="qrz" height="30" width="40" /></a>
+<a href="https://www.qrz.com/db/tb3fly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg](https://static.qrz.com/static/qrz/qrz_com.svgz](https://cdn-bio.qrz.com/c/yv5rvc/qrz_logo.png?p=a3ed7b195426cd154874ae6ca71208eb" alt="qrz" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
