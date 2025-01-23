@@ -1,10 +1,112 @@
-
-<h3 align="left">During the first century of Turkey's venture into space, I was there with my profession and my radio during disasters. I actively operate on the VHF/UHF bands in the 2-meter and 70-cm ranges. My rooftop antenna and 25-watt in-car setup keep me connected. I listen and record on the SSB band. I participate in contests and events on the bands I'm active on. Lately, I've been interested in POTA and team-building efforts. 73!</h3>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.qrz.com/db/tb3fly" target="blank"><img align="center" src="![qrz_logo](https://github.com/user-attachments/assets/e19ce6ce-8eab-4763-b3be-be1a38c51263)" alt="qrz" height="30" width="40" /></a>
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">  </p>
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog Başlığı</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    body {
+      background-color: #343a40;
+      color: white;
+    }
+    .card {
+      background-color: #495057;
+      border: none;
+    }
+    .navbar {
+      background-color: #212529;
+    }
+    footer {
+      background-color: #212529;
+    }
+  </style>
+</head>
+<body>
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <a class="navbar-brand" href="#">Blog Başlığı</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Ana Sayfa <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Hakkında</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">İletişim</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="container mt-4">
+  <h1>Blog Yazıları</h1>
+  <div class="row">
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 1</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 2</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 3</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 4</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 5</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-4 mb-4">
+      <div class="card">
+        <div class="card-body">
+          <h2 class="card-title">Yazı Başlığı 6</h2>
+          <p class="card-text">Bu yazının kısa bir özeti burada yer alacak. Daha fazla bilgi için yazının tamamını okuyabilirsiniz.</p>
+          <a href="#" class="btn btn-light">Devamını Oku</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<footer class="text-center py-4">
+  <p>&copy; 2023 Blog Adı. Tüm hakları saklıdır.</p>
+</footer>
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
 
