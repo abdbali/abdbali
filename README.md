@@ -1,4 +1,4 @@
-# Amateur Radio Experiments for Space (Türkiye)
+# Amateur Radio Experiments for Space (TC3ATA)
 
 During the first century of Turkey's venture into space, I was there with my profession and my radio during disasters. As an amateur radio operator, I actively operate on the VHF/UHF bands in the 2-meter and 70-cm ranges. My rooftop antenna and 25-watt in-car setup keep me connected, ensuring that I'm always ready for communication.
 
