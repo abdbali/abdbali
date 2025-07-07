@@ -28,14 +28,7 @@ Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded syst
 
 ---
 
-##  GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdbali&show_icons=true&theme=radical" alt="abdbali's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdbali&layout=compact&theme=radical" alt="abdbali's top languages" />
-</div>
-
----
 
 ##  Community Badges
 
