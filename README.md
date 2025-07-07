@@ -6,10 +6,9 @@
 ## About Me
 Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded systems**, **wireless communication**, and **AI-powered educational technologies**. I enjoy integrating hardware and software to build innovative real-world solutions.
 
-@TC3ATA
 ---
 
-## 💡 Technical Focus Areas
+##  Technical Focus Areas
 
 ![C](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
@@ -22,14 +21,14 @@ Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded syst
 
 ---
 
-## ⚙️ Current Projects
+##  Current Projects
 - Developing **long-range mesh networking systems** for educational and emergency use cases
 - Designing **AI-powered interactive experiments** for science education
 - Creating **DIY educational kits** that combine coding and electronics
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abdbali&show_icons=true&theme=radical" alt="abdbali's GitHub stats" />
@@ -38,7 +37,7 @@ Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded syst
 
 ---
 
-## 🌟 Community Badges
+##  Community Badges
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=abdbali.abdbali)
 ![followers](https://img.shields.io/github/followers/abdbali?label=Followers&style=social)
@@ -46,5 +45,5 @@ Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded syst
 
 ---
 
-### ⭐ Let’s build, test, and share together!
+###  Let’s build, test, and share together!
 Feel free to explore my repositories and contribute or collaborate on new ideas!
