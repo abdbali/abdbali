@@ -8,19 +8,6 @@ Hi, I’m Balı - TB3FLY — a developer and educator focused on **embedded syst
 
 ---
 
-##  Technical Focus Areas
-
-![C](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino)
-![ESP32](https://img.shields.io/badge/-ESP32-FF6F00?style=flat-square&logo=espressif)
-![LoRa](https://img.shields.io/badge/-LoRa-00BFA5?style=flat-square)
-![Mesh](https://img.shields.io/badge/-Mesh%20Networking-4A148C?style=flat-square)
-![AI](https://img.shields.io/badge/-AI/ML-FF6F61?style=flat-square&logo=opencv)
-![STEM](https://img.shields.io/badge/-STEM%20Education-00C853?style=flat-square)
-
----
-
 ##  Current Projects
 - Developing **long-range mesh networking systems** for educational and emergency use cases
 - Designing **AI-powered interactive experiments** for science education
