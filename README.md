@@ -22,6 +22,7 @@ I draw inspiration from Twin’s **STEM for Sustainability** program and provide
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/656c5ff7-66c1-4a64-bd22-a0ee8b1fa605" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7d1bdefb-ab7c-4a9d-9bef-7eaff6d2e459" />
 
+<img width="750" height="750" alt="image" src="https://github.com/user-attachments/assets/bd94bdf1-1022-435a-a226-8108c2702668" />
 
 
 
@@ -68,4 +69,3 @@ I draw inspiration from Twin’s **STEM for Sustainability** program and provide
 
 ---
 
-![Footer Banner](https://your-image-link.com/footer-banner.png)
