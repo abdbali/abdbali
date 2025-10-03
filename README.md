@@ -1,6 +1,7 @@
 # Hello, I'm Balı  
 
-![Banner](https://your-image-link.com/banner.png)  
+<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/20638108-1a7a-4e3f-b9c7-813c0106c1eb" />
+
 
 I work in **Vibe Coding** within science education, developing STEM and digital skills. I integrate **machine learning, aerospace, and AI** into learning environments, guiding students and teachers to enhance their **creative thinking and problem-solving skills**.  
 
