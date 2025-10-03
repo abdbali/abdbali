@@ -1,6 +1,6 @@
 # Hello, I'm Balı  
 
-<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/20638108-1a7a-4e3f-b9c7-813c0106c1eb" />
+
 
 
 I work in **Vibe Coding** within science education, developing STEM and digital skills. I integrate **machine learning, aerospace, and AI** into learning environments, guiding students and teachers to enhance their **creative thinking and problem-solving skills**.  
@@ -16,6 +16,15 @@ I work in **Vibe Coding** within science education, developing STEM and digital 
 I draw inspiration from Twin’s **STEM for Sustainability** program and provide mentoring through creative workshops and educational programs, ranging from nature to space, for both teachers and students.  
 
 ---
+
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/ff7b1063-1fcd-4a80-8419-17077e2225ff" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/bd1fa532-99db-4c3e-80c7-bdf4670fb69b" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/656c5ff7-66c1-4a64-bd22-a0ee8b1fa605" />
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7d1bdefb-ab7c-4a9d-9bef-7eaff6d2e459" />
+
+
+
+
 
 ## Skills
 
