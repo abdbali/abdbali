@@ -11,7 +11,7 @@ I work in **Vibe Coding** within science education, developing STEM and digital 
 - Working with AI and robotic systems to improve educational environments  
 - Mentoring the next generation of scientists and engineers  
 - Enriching in-class and extracurricular learning experiences  
-- Deep interest in **TEM education** and innovative teaching approaches  
+- Deep interest in **STEM education** and innovative teaching approaches  
 
 I draw inspiration from Twin’s **STEM for Sustainability** program and provide mentoring through creative workshops and educational programs, ranging from nature to space, for both teachers and students.  
 
