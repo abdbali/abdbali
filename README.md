@@ -16,9 +16,6 @@ I work in **Vibe Coding** within science education, developing STEM and digital 
 I draw inspiration from Twin’s **STEM for Sustainability** program and provide mentoring through creative workshops and educational programs, ranging from nature to space, for both teachers and students.  
 ---
 Youtube : https://www.youtube.com/@abdbali
-
-<img width="879" height="842" alt="image" src="https://github.com/user-attachments/assets/7003b412-e6d8-4b00-9fe3-7a697e24fa12" />
-
 ---
 My IDE : 
 <img width="1889" height="819" alt="image" src="https://github.com/user-attachments/assets/7c602493-5b2d-478f-8a14-2a1f7933070f" />
