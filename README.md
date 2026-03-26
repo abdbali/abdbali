@@ -18,6 +18,8 @@ I draw inspiration from Twin’s **STEM for Sustainability** program and provide
 Youtube : https://www.youtube.com/@abdbali
 ---
 My IDE : 
+<img width="923" height="898" alt="image" src="https://github.com/user-attachments/assets/0d5b72fe-3a08-4431-8306-720cec0deb3f" />
+
 <img width="1889" height="819" alt="image" src="https://github.com/user-attachments/assets/7c602493-5b2d-478f-8a14-2a1f7933070f" />
 
 ---
