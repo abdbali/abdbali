@@ -19,11 +19,16 @@ Youtube : https://www.youtube.com/@abdbali
 <img width="1311" height="726" alt="image" src="https://github.com/user-attachments/assets/90b269c6-91ef-4725-94f4-24a50edfb68b" />
 
 ---
-My IDE : 
+Alpha Flow (for Arduino) : 
 
 <img width="1889" height="819" alt="image" src="https://github.com/user-attachments/assets/7c602493-5b2d-478f-8a14-2a1f7933070f" />
 
 ---
+Mentor (for Chrome):
+<img width="519" height="356" alt="image" src="https://github.com/user-attachments/assets/030a086a-368e-4d0e-808a-714dbc831b8d" />
+
+---
+
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/ff7b1063-1fcd-4a80-8419-17077e2225ff" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/bd1fa532-99db-4c3e-80c7-bdf4670fb69b" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7d1bdefb-ab7c-4a9d-9bef-7eaff6d2e459" />
