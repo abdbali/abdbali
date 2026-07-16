@@ -1,5 +1,0 @@
-title: Balı - STEM & Vibe Coding
-description: Discover learning through technology and innovation, think creatively, and shape the future.
-url: "https://abdbali.github.io"
-baseurl: ""  # Burası kesinlikle boş olmalı, içinde "abdbali" yazıyorsa onu SİL.
-theme: jekyll-theme-minimal
