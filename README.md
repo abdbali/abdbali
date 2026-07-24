@@ -28,7 +28,7 @@ Mentor (for Chrome):
 <img width="519" height="356" alt="image" src="https://github.com/user-attachments/assets/030a086a-368e-4d0e-808a-714dbc831b8d" />
 
 ---
-
+<img width="1024" height="441" alt="image" src="https://github.com/user-attachments/assets/e38c4ed2-8cfd-4954-8836-513d25245289" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/ff7b1063-1fcd-4a80-8419-17077e2225ff" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/bd1fa532-99db-4c3e-80c7-bdf4670fb69b" />
 <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7d1bdefb-ab7c-4a9d-9bef-7eaff6d2e459" />
