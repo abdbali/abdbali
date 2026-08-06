@@ -1,87 +1,25 @@
-# Hello, I'm Balı  
-
-
-
-
-I work in **Vibe Coding** within science education, developing STEM and digital skills. I integrate **machine learning, aerospace, and AI** into learning environments, guiding students and teachers to enhance their **creative thinking and problem-solving skills**.  
+Entrepreneur, Web3 Investor, and Product Architect. 
+Bridging visionary founders with strategic capital to build the decentralized future.
 
 ---
 
-## About Me
-- Working with AI and robotic systems to improve educational environments  
-- Mentoring the next generation of scientists and engineers  
-- Enriching in-class and extracurricular learning experiences  
-- Deep interest in **STEM education** and innovative teaching approaches  
+## Featured Project
 
-I draw inspiration from Twin’s **STEM for Sustainability** program and provide mentoring through creative workshops and educational programs, ranging from nature to space, for both teachers and students.  
----
-Youtube : https://www.youtube.com/@abdbali
-<img width="1311" height="726" alt="image" src="https://github.com/user-attachments/assets/90b269c6-91ef-4725-94f4-24a50edfb68b" />
+### [Trust](https://trust-protocol-web.vercel.app/)
+A next-generation protocol eliminating uncertainty in the Web3 ecosystem, making contributions and trust verifiable and transparent.
 
----
-Alpha Flow (for Arduino) : 
-
-<img width="1889" height="819" alt="image" src="https://github.com/user-attachments/assets/7c602493-5b2d-478f-8a14-2a1f7933070f" />
-
----
-Mentor (for Chrome):
-<img width="519" height="356" alt="image" src="https://github.com/user-attachments/assets/030a086a-368e-4d0e-808a-714dbc831b8d" />
-
----
-<img width="1024" height="441" alt="image" src="https://github.com/user-attachments/assets/e38c4ed2-8cfd-4954-8836-513d25245289" />
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/ff7b1063-1fcd-4a80-8419-17077e2225ff" />
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/bd1fa532-99db-4c3e-80c7-bdf4670fb69b" />
-<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/7d1bdefb-ab7c-4a9d-9bef-7eaff6d2e459" />
-<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/bd94bdf1-1022-435a-a226-8108c2702668" />
-<img width="350" height="500" alt="ABV" src="https://github.com/user-attachments/assets/ae16570f-75b1-4d57-808b-ae75383dfffe" />
-
-
-
-https://www.worldspaceweek.org/events/?eventID=98459
-
-
-
-
-
-## Skills
-
-| Area | Description |
-|------|-------------|
-| Workshops | Facilitating learning for all age groups |
-| Robotics & Coding | Arduino, Robotics, Rotary Wing UAV (Drone) |
-| Design & Skills | 3D Design, Material Design, Lab Work |
-| Science Applications | Science Fairs, Teknofest, TUBITAK 2204-A Project Mentoring |
-| Education Management | Organization, Mentoring, Team Leadership |
-| Software & Tools | OS X, MS Office, Adobe Photoshop, Cura, EasyEDA, Visual Studio, X Desktop |
-| XR & VR | Developing educational XR/VR models |
+- **Live Launch:** [trust-protocol-web.vercel.app](https://trust-protocol-web.vercel.app/)
 
 ---
 
-## Interests
-- Artificial Intelligence & Machine Learning  
-- Robotics & STEM Education  
-- Aerospace & Aviation Technology  
-- Digital Skills Development & Coding  
-- Sustainability & Innovative Learning  
+## Focus Areas & Vision
+
+- **Web3 & Blockchain Infrastructure:** Designing transparent, scalable, and trustless ecosystems.
+- **Venture Building & Investment:** Supporting early-stage technology initiatives, driving strategic growth, and unlocking long-term value.
+- **Trust-Driven Architecture:** Creating verifiable mechanisms to solve transparency challenges in the digital economy.
 
 ---
 
-## Past Projects & Work
-- STEM and digital skills workshops for students  
-- Extracurricular, science-focused learning programs  
-- Teknofest and TUBITAK project mentoring  
-- Developing XR and VR educational models  
+## Connect
 
----
-
-## Contact Me
-- [GitBook](https://abdbali.gitbook.io/index/)  
-- [Email](mailto:abdbali@hotmail.com)  
-
----
-
-##  Motto
-> “Discover learning through technology and innovation, think creatively, and shape the future.”
-
----
-
+- **GitHub:** [github.com/abdbali](https://github.com/abdbali)
