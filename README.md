@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Abdurrahman Balı (Balı)
+#  Abdurrahman Balı
 ### **Eğitimci | Geliştirici & Ürün Mimarı | Açık Kaynak Üreticisi**
 
 <p align="center">
