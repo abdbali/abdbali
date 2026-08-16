@@ -8,7 +8,7 @@ Bridging visionary founders with strategic capital to build the decentralized fu
 ### [Trust](https://trust-protocol-web.vercel.app/)
 A next-generation protocol eliminating uncertainty in the Web3 ecosystem, making contributions and trust verifiable and transparent.
 
-- **Live Launch:** [gettrust.cloude](https://gettrust.cloude/)
+- **Live Launch:** [[gettrust.cloude]([https://gettrust.cloude/](https://gettrust.cloud/))](https://gettrust.cloud/)
 
 ---
 
