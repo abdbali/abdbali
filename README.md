@@ -151,9 +151,8 @@ Yeni bir eğitim projesi, teknoloji ortaklığı, yapay zeka / Web3 mimarisi vey
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdbali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdbali)
-[![Website](https://img.shields.io/badge/Trust_Protocol-gettrust.cloud-0284c7?style=for-the-badge&logo=firefox&logoColor=white)](https://gettrust.cloud/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Email](https://img.shields.io/badge/E--Posta-Bana_Ulaşın-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@gettrust.cloud)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdbali/)
+[![Email](https://img.shields.io/badge/E--Posta-Bana_Ulaşın-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdbali@hotmail.com)
 
 <br/>
 
