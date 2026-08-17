@@ -13,41 +13,28 @@
 
 </div>
 
-## 🌟 Hakkımda (About Me)
+##  Hakkımda (About Me)
 
 Teknoloji üretmeyi bir tutku, bilgiyi paylaşmayı ve yeni nesillere aktarmayı ise en temel misyonum olarak görüyorum. Hem **üretim sahasında aktif bir yazılım ve ürün mimarı**, hem de **öğrenmeyi ve öğretmeyi merkezine alan bir eğitimci** olarak; modern yazılım paradigmaları, yapay zeka ajanları, Web3 altyapıları ve STEM temelli eğitim teknolojileri üzerinde çalışıyorum.
 
-```yaml
-profil:
-  roller:
-    - Eğitimci & STEM Mentoru
-    - Yazılım Geliştirici & Ürün Mimarı
-    - Açık Kaynak Geliştiricisi
-  uzmanlıklar:
-    - Yapay Zeka Ajanları (AI Agents) & LLM Entegrasyonları
-    - Full-Stack & Çevrimdışı Öncelikli (Offline-First) Uygulama Mimarisi
-    - Web3, Merkeziyetsiz Altyapılar & Güven Protokolleri
-    - STEM, Robotik Simülasyonları & Gömülü Sistem Eğitimi
-  vizyon: "Teknoloji üreten ve ürettiği teknolojiyi toplumun yararına eğitime dönüştüren bir ekosistem inşa etmek."
-```
 
 ---
 
-## 🧭 İki Temel Odak Noktam
+##  İki Temel Odak Noktam
 
-### 🎓 1. Eğitimci & Mentor Kimliği
+### 1. Eğitimci & Mentor Kimliği
 - **Geleceğin Yazılımcılarını Yetiştirme:** Python, Veri Bilimi, Makine Öğrenimi ve Modern Web Geliştirme alanlarında yapılandırılmış, uygulamalı öğrenme serileri ve atölyeler.
 - **STEM & Robotik Eğitimi:** Öğrencilerin analitik düşünme, devre tasarımı ve programlama becerilerini geliştiren uzay biyolojisi ve Arduino simülasyonları (*ISS Plant Growth Project* vb.).
 - **Açık Kaynak Müfredatlar:** Toplulukların kendi hızlarında öğrenebileceği rehberler (*30 Days of Python, Web Dev for Beginners, Prompt Engineering Guide*).
 
-### 💻 2. Geliştirici & Sistem Mimarı Kimliği
+###  2. Geliştirici 
 - **Yapay Zeka & Ajan Ekosistemleri:** Claude Code için Türkçe profesyonel işletim sistemi mimarisi (**Kalfa**), görsel AI ajan geliştirme araçları.
 - **Güven & Altyapı Protokolleri:** Web3 dünyasında şeffaf ve doğrulanabilir katkı mekanizmaları (**Trust Protocol**).
 - **Kullanıcı Odaklı Ürünler:** Yüksek performanslı, çevrimdışı çalışabilen modern not alma ve üretkenlik sistemleri (**Mnote**).
 
 ---
 
-## 🚀 Öne Çıkan Projeler (Featured Projects)
+##  Öne Çıkan Projeler (Featured Projects)
 
 <table>
   <tr>
@@ -94,11 +81,11 @@ profil:
 
 ---
 
-## 🛠️ Yetkinlikler & Teknoloji Yığını (Tech Stack)
+##  Yetkinlikler & Teknoloji Yığını (Tech Stack)
 
 <div align="center">
 
-### 💻 Programlama Dilleri & Çekirdek
+###  Programlama Dilleri & Çekirdek
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -107,7 +94,7 @@ profil:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🤖 Yapay Zeka, Ajanlar & Veri Bilimi
+###  Yapay Zeka, Ajanlar & Veri Bilimi
 ![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0284c7?style=for-the-badge&logo=open-access&logoColor=white)
@@ -115,15 +102,8 @@ profil:
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🌐 Web, Mobil & Altyapı
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 🔬 Donanım, STEM & 3D Tasarım
+###  Donanım, STEM & 3D Tasarım
 ![Arduino](https://img.shields.io/badge/Arduino_STEM-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Bambu Lab](https://img.shields.io/badge/Bambu_Studio_3D-00AE42?style=for-the-badge&logo=3d-printing&logoColor=white)
 ![Blockly](https://img.shields.io/badge/Blockly_Visual_Coding-FFA000?style=for-the-badge&logo=google&logoColor=white)
@@ -132,7 +112,7 @@ profil:
 
 ---
 
-## 📚 Eğitim & Mentorluk Konuları (Teaching & Curriculum)
+##  Eğitim & Mentorluk Konuları (Teaching & Curriculum)
 
 Öğrencilerim, mentorluk alan geliştiriciler ve açık kaynak topluluğu için hazırladığım temel başlıklar:
 
@@ -144,7 +124,7 @@ profil:
 
 ---
 
-## 📊 GitHub İstatistikleri (GitHub Stats)
+##  GitHub İstatistikleri (GitHub Stats)
 
 <div align="center">
   <table border="0">
@@ -164,7 +144,7 @@ profil:
 
 ---
 
-## 🤝 İletişim & Birlikte Çalışma (Connect & Collaborate)
+##  İletişim & Birlikte Çalışma (Connect & Collaborate)
 
 Yeni bir eğitim projesi, teknoloji ortaklığı, yapay zeka / Web3 mimarisi veya mentorluk çalışmaları için benimle iletişime geçebilirsiniz:
 
@@ -177,6 +157,6 @@ Yeni bir eğitim projesi, teknoloji ortaklığı, yapay zeka / Web3 mimarisi vey
 
 <br/>
 
-<sub>*"En iyi öğrenme yöntemi öğretmek, en kalıcı miras ise üretilen bilgiyi paylaşmaktır."* 🚀</sub>
+<sub>*"En iyi öğrenme yöntemi öğretmek, en kalıcı miras ise üretilen bilgiyi paylaşmaktır."* </sub>
 
 </div>
