@@ -1,13 +1,6 @@
 <div align="center">
 
 #  Abdurrahman Balı
-### **Eğitimci | Geliştirici & Ürün Mimarı | Açık Kaynak Üreticisi**
-
-<p align="center">
-  <a href="https://github.com/abdbali">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=E%C4%9Fitimci+%7C+Geli%C5%9Ftirici+%7C+Sistem+Mimar%C4%B1;Gelece%C4%9Fin+Yaz%C4%B1l%C4%B1mc%C4%B1lar%C4%B1n%C4%B1+Yeti%C5%9Ftiriyorum;AI+Ajanlar%C4%B1%2C+Web3+%26+Modern+Yaz%C4%B1l%C4%B1m+Mimarileri;A%C3%A7%C4%B1k+Kaynak+%26+STEM+Topluluk+Geli%C5%9Ftiricisi" alt="Typing SVG" />
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/abdbali"><img src="https://img.shields.io/github/followers/abdbali?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="GitHub Followers" /></a>
