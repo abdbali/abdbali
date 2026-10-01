@@ -2,77 +2,49 @@
 
 # Abdurrahman Balı
 
+**Eğitmen & STEM Mentor**
+
+Geleceğin geliştiricilerine rehberlik eden, algoritmik düşünceyi ve açık kaynak kültürünü merkeze alan eğitim odaklı geliştirici.
+
 <p align="center">
-  <a href="https://github.com/abdbali"><img src="https://img.shields.io/github/followers/abdbali?label=Followers&style=for-the-badge&color=2563eb&logo=github" alt="GitHub Followers" /></a>
-  <a href="https://github.com/abdbali?tab=repositories"><img src="https://img.shields.io/badge/Repos-20%2B-0284c7?style=for-the-badge&logo=git&logoColor=white" alt="Repositories" /></a>
-  <a href="mailto:contact@gettrust.cloud"><img src="https://img.shields.io/badge/Contact-Email-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
-  <a href="https://github.com/abdbali"><img src="https://img.shields.io/badge/Focus-Education%20%26%20Development-8b5cf6?style=for-the-badge&logo=bookmeter&logoColor=white" alt="Focus" /></a>
+  <a href="https://github.com/abdbali"><img src="https://img.shields.io/github/followers/abdbali?label=Followers&style=flat-square&color=2563eb&logo=github" alt="GitHub Followers" /></a>
+  <a href="mailto:abdbali@hotmail.com"><img src="https://img.shields.io/badge/İletişim-E--posta-10b981?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/abdbali"><img src="https://img.shields.io/badge/Odak-Eğitim%20%26%20STEM-8b5cf6?style=flat-square&logo=bookmeter&logoColor=white" alt="Focus" /></a>
 </p>
 
 ---
 
 </div>
 
-## About Me
+## Hakkımda
 
-I see building technology as a passion, and sharing knowledge and mentoring future generations as my core mission. As both an **active software and product architect in the field** and an **educator with a focus on learning and teaching**, I work on modern software paradigms, AI agents, Web3 infrastructure, and STEM-based educational technologies.
+Teknolojiyi bir amaçtan ziyade bir öğrenme aracı olarak görüyorum; bilgiyi paylaşmayı, açık kaynak eğitim materyalleri üretmeyi ve genç geliştiricileri mentorlukla desteklemeyi temel misyonum kabul ediyorum. 
 
----
-
-## Two Core Focus Areas
-
-### 1. Educator & Mentor Identity
-- **Empowering Future Developers:** Structured, hands-on learning paths and workshops in Python, Data Science, Machine Learning, and Modern Web Development.
-- **STEM & Robotics Education:** Space biology and Arduino simulations (*ISS Plant Growth Project*, etc.) designed to enhance students' analytical thinking, circuit design, and programming skills.
-- **Open Source Curriculums:** Self-paced community learning guides (*30 Days of Python, Web Dev for Beginners, Prompt Engineering Guide*).
-
-### 2. Developer & Architect
-- **AI & Agent Ecosystems:** A professional operating system architecture for Claude Code (**Kalfa**), visual AI agent development tools.
-- **Trust & Infrastructure Protocols:** Next-generation infrastructure protocols enabling transparent and verifiable contributions across the Web3 ecosystem (**Trust Protocol**).
-- **User-Centric Products:** High-performance, offline-first modern Markdown note-taking and personal knowledge management systems (**Mnote**).
+Çalışmalarımı doğrudan **öğretim tasarımı**, **çocuklar ve gençler için kodlama**, **STEM projeleri** ve **topluluk temelli açık müfredatlar**, **Yapay Zeka İletişimi** etrafında şekillendiriyorum.
 
 ---
 
-## Featured Projects
+## Eğitim & Mentorluk Alanları
+
+- **Algoritmik Düşünme & Temel Programlama:** Python ve blok tabanlı araçlarla problem çözme refleksini geliştiren uygulamalı atölyeler.
+- **STEM & Fiziksel Programlama:** Arduino, sensör etkileşimleri ve fen bilimlerini bir araya getiren disiplinler arası projeler.
+- **Uygulamalı Veri & Yapay Zekâ Okuryazarlığı:** Yeni nesil geliştiriciler için temel veri analizi, pratik makine öğrenmesi ve üretken yapay zekâ rehberleri.
+- **Açık Kaynak Müfredatlar:** Kendi kendine öğrenmeyi destekleyen topluluk odaklı Türkçe eğitim kaynakları ve çeviriler.
+
+---
+
+## Öne Çıkan Eğitim Projeleri
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdbali/kalfa">Kalfa — AI Operating System</a></h3>
-      <p>A professional operating system built for Claude Code. Automates software development workflows with <strong>10 specialized agents</strong>, <strong>22 custom commands</strong>, <strong>990+ skills</strong>, and a <strong>6-layer memory architecture</strong>.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Claude%20Code-AI-blueviolet?style=flat-square" />
-        <img src="https://img.shields.io/badge/Shell%20%2F%20CLI-Automation-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Multi--Agent-Architecture-2563eb?style=flat-square" />
-      </p>
-    </td>
     <td width="50%" valign="top">
-      <h3><a href="https://gettrust.cloud/">Trust Protocol</a></h3>
-      <p>A next-generation infrastructure protocol that eliminates trust and transparency issues in Web3 and decentralized ecosystems by making contributions verifiable.</p>
+      <h3>Açık Eğitim Kaynakları & Atölyeler</h3>
+      <p>Algoritmik düşünme temelli Python rehberleri, veri bilimi çalışma örnekleri ve topluluk odaklı kodlama ders materyalleri.</p>
       <p>
-        <img src="https://img.shields.io/badge/Web3-Infrastructure-orange?style=flat-square" />
-        <img src="https://img.shields.io/badge/Avalanche-Ecosystem-E84142?style=flat-square" />
-        <img src="https://img.shields.io/badge/Live-gettrust.cloud-0284c7?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdbali/Mnote">Mnote</a></h3>
-      <p>A production-ready, modern, offline-first Markdown note-taking and personal knowledge management application.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Offline--First-PWA-10b981?style=flat-square" />
-        <img src="https://img.shields.io/badge/Markdown-Productivity-000000?style=flat-square&logo=markdown" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/abdbali/ISS-Plant-Growth-Project">ISS Plant Growth (STEM)</a></h3>
-      <p>An Arduino-based STEM educational project simulating plant growth in the International Space Station environment. Covers fundamental electronics, sensor reading, and biological cycles.</p>
-      <p>
-        <img src="https://img.shields.io/badge/STEM-Education-success?style=flat-square" />
-        <img src="https://img.shields.io/badge/Arduino-Robotics-00979D?style=flat-square&logo=arduino&logoColor=white" />
-        <img src="https://img.shields.io/badge/IoT-Sensors-gray?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-Eğitim-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Müfredat-Açık%20Kaynak-orange?style=flat-square" />
+        <img src="https://img.shields.io/badge/Mentorluk-Topluluk-blueviolet?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -80,80 +52,33 @@ I see building technology as a passion, and sharing knowledge and mentoring futu
 
 ---
 
-## Tech Stack & Competencies
+## Eğitim & STEM Araçları
 
 <div align="center">
 
-### Programming Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Artificial Intelligence, Agents & Data Science
-![Anthropic Claude](https://img.shields.io/badge/Claude_AI-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0284c7?style=for-the-badge&logo=open-access&logoColor=white)
-![Flowise AI](https://img.shields.io/badge/Flowise_AI-000000?style=for-the-badge&logo=diagram-next&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Hardware, STEM & 3D Design
-![Arduino](https://img.shields.io/badge/Arduino_STEM-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Bambu Lab](https://img.shields.io/badge/Bambu_Studio_3D-00AE42?style=for-the-badge&logo=3d-printing&logoColor=white)
-![Blockly](https://img.shields.io/badge/Blockly_Visual_Coding-FFA000?style=for-the-badge&logo=google&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino_STEM-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Blockly](https://img.shields.io/badge/Blockly-Görsel_Kodlama-FFA000?style=flat-square&logo=google&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/3D_Tasarım_&_Baskı-00AE42?style=flat-square&logo=3d-printing&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-Veri_Eğitimi-150458?style=flat-square&logo=pandas&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/YZ_Okuryazarlığı-0284c7?style=flat-square&logo=open-access&logoColor=white)
 
 </div>
 
 ---
 
-## Teaching & Curriculum Topics
+## İletişim & İş Birliği
 
-Key topics I create and maintain for students, mentees, and the open-source community:
-
-- **Algorithmic Thinking & Python:** Core programming fundamentals, data structures, and problem-solving methodologies.
-- **Applied Data Science:** Data analytics, visualization, and case studies (*Data Science Studycases*).
-- **Modern Web Architecture:** Building and deploying full-stack web applications from scratch.
-- **AI-Assisted Coding:** Prompt engineering, AI developer tooling (Claude Code, Kalfa), and developer productivity workflows.
-- **STEM & Robotics Projects:** Physical computing, sensor integration, and interactive science projects.
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdbali&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdbali&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdbali&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## Connect & Collaborate
-
-Feel free to reach out for new educational projects, technology partnerships, AI/Web3 architecture, or mentorship collaborations:
+Eğitim projeleri, atölye çalışmaları, STEM etkinlikleri ve mentorluk talepleri için:
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-abdbali-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdbali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdbali/)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdbali@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-abdbali-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/abdbali)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bağlantı_Kur-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdbali/)
+[![Email](https://img.shields.io/badge/E--posta-İletişime_Geç-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abdbali@hotmail.com)
 
 <br/>
 
-<sub>*"The best way to learn is to teach, and the most enduring legacy is sharing created knowledge."* </sub>
+<sub>*"En iyi öğrenme yolu öğretmek; en kalıcı miras ise üretilen bilgiyi paylaşmaktır."*</sub>
 
 </div>
