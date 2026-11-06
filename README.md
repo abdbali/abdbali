@@ -1,8 +1,8 @@
 # Abdurrahman Balı
 
-**Educator**
+**Learning Experience (LX) Lead**
 
-I design **open-source learning paths**, **algorithmic thinking materials**, and **physical computing projects** for future developers.
+I design scalable, future-ready learning ecosystems at the intersection of AI, emerging tech, and hands-on maker pedagogy. From science centers to digital spaces, I build high-impact curricula and empower educators and learners to turn complex technologies into creative problem-solving capabilities.
 
 [GitHub](https://github.com/abdbali) · [LinkedIn](https://www.linkedin.com/in/abdbali/) · [Email](mailto:abdbali@hotmail.com)
 
